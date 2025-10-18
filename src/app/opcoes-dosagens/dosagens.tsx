@@ -69,7 +69,7 @@ function Referencias() {
       <h3>Referências</h3>
       <p>
         Esta é a tabela de referência que usamos para entender quais serão os
-        níveis de Estradiol no seu corpo para cada cosagem, para cada uma das
+        níveis de Estradiol no seu corpo para cada dosagem, para cada uma das
         vias (oral, gel, adesivo e injetável).
       </p>
       <p>
